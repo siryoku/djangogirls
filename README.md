@@ -1,0 +1,2 @@
+# djangogirls
+Djangoの公式チュートリアルを参考に作成したアプリ
